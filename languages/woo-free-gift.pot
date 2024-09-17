@@ -1,0 +1,133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: woo-free-gift\n"
+"POT-Creation-Date: 2022-01-27 00:01+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Vishit <vishit99@gmail.com>\n"
+"Language-Team: Vishit\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-gift-add.php:194 includes/class-wc-settings.php:24
+msgid "Free Gift"
+msgstr ""
+
+#: includes/class-main.php:22 includes/class-wc-settings.php:147
+msgid "Congratulations! You have received a free gift!"
+msgstr ""
+
+#: includes/class-main.php:46
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wc-inactive.php:19
+msgid ""
+"Free Gift for WooCommerce needs WooCommerce to run. Please, install and "
+"active WooCommerce plugin."
+msgstr ""
+
+#: includes/class-wc-settings.php:59
+msgid "Products and Quantity"
+msgstr ""
+
+#: includes/class-wc-settings.php:60
+msgid "Specify the IDs of the products witch will be the gifts."
+msgstr ""
+
+#: includes/class-wc-settings.php:66
+msgid "Product IDs"
+msgstr ""
+
+#: includes/class-wc-settings.php:67
+#, php-format
+msgid "For more information read %s this article."
+msgstr ""
+
+#: includes/class-wc-settings.php:68
+msgid "Set IDs of products to be a gift separated by a coma (without spaces)."
+msgstr ""
+
+#: includes/class-wc-settings.php:75
+msgid "Quantity"
+msgstr ""
+
+#: includes/class-wc-settings.php:76
+msgid "Leave the field blank to set the quantity of each gift equal 1."
+msgstr ""
+
+#: includes/class-wc-settings.php:77
+msgid "Set quantity for each gift separated by a coma (without spaces)."
+msgstr ""
+
+#: includes/class-wc-settings.php:90
+msgid "Conditions"
+msgstr ""
+
+#: includes/class-wc-settings.php:91
+msgid "Select the conditions for displaying and working gifts."
+msgstr ""
+
+#: includes/class-wc-settings.php:97
+msgid "Label in Cart"
+msgstr ""
+
+#: includes/class-wc-settings.php:99
+#, php-format
+msgid "Show %sFree Gift%s labels for the gifts in cart?"
+msgstr ""
+
+#: includes/class-wc-settings.php:109
+msgid "Only for Authorized"
+msgstr ""
+
+#: includes/class-wc-settings.php:110
+msgid "Give the gifts only for authorized users?"
+msgstr ""
+
+#: includes/class-wc-settings.php:117
+#, php-format
+msgid "Minimum Order Amount in %s"
+msgstr ""
+
+#: includes/class-wc-settings.php:118
+msgid "Set minimum order amount for adding gifts."
+msgstr ""
+
+#: includes/class-wc-settings.php:119
+msgid "You can leave the field blank to hide this limit."
+msgstr ""
+
+#: includes/class-wc-settings.php:130
+msgid "Order amount type."
+msgstr ""
+
+#: includes/class-wc-settings.php:135
+msgid "Subtotal"
+msgstr ""
+
+#: includes/class-wc-settings.php:136
+msgid "Total"
+msgstr ""
+
+#: includes/class-wc-settings.php:142
+msgid "Message About Gift"
+msgstr ""
+
+#: includes/class-wc-settings.php:143
+msgid "Leave the field blank to hide the message."
+msgstr ""
+
+#: includes/class-wc-settings.php:144
+msgid "Set text about free gift in WooCommerce notification area."
+msgstr ""
